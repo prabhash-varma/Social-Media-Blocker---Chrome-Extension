@@ -1,1 +1,1 @@
-# Social-Media-Blocker---Chrome-Extension
+# Social-Media-Blocker - Chrome-Extension
